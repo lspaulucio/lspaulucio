@@ -11,7 +11,7 @@
 
 > - 📚 I'm a M.Sc. student working with Deep Learning applied in Natural Language Processing
 > - 🖥️ I'm actually working as TI Analyst
-> - 👯 Recently working more with Python and Javascript
+> - 👯 Recently, working more with Pytorch, Python and Javascript
 > - 😄 I am willing and proactive
 > - 🎮 I like puzzles
 > - 🔭 I have an interest in Artificial Intelligence, Embedded Systems, DevOps, Robotics, Automation, Software Development, Cloud Computing, Data Analysis, Data Engineering and a little more... 😄 😅
