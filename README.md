@@ -4,7 +4,7 @@
 
 ### About me 
 
-> * Brazil 🇧🇷 
+> * 🇧🇷 Brazil 
 > * 💻 Bachelor of Computer Engineer
 
 ### Interests and Activities
