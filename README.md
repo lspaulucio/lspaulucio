@@ -5,7 +5,7 @@
 
 ### About me 
 
-> * 🇧🇷 Brazil 
+> * 🇧🇷 Brazilian
 > * 💻 Computer Engineer
 > * 🐧 Linux lover
  
