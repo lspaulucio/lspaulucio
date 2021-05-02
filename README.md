@@ -62,14 +62,6 @@
       height="40"
     />
   </a>
-  <a href="https://dart.dev" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
-      alt="dart"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.docker.com/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
@@ -169,10 +161,10 @@
       height="40"
     />
   </a>
-  <a href="https://mariadb.org/" target="_blank">
+  <a href="https://www.mongodb.com/" target="_blank">
     <img
-      src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"
-      alt="mariadb"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+      alt="mongodb"
       width="40"
       height="40"
     />
