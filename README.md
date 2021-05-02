@@ -6,17 +6,18 @@
 ### About me 
 
 > * 🇧🇷 Brazil 
-> * 💻 Bachelor of Computer Engineer
+> * 💻 Computer Engineer
+> * 🐧 Linux lover
 
 
 ### Interests and Activities
 
 > - 📚 I'm a M.Sc. student working with Deep Learning applied in Natural Language Processing
 > - 🖥️ I'm actually working as TI Analyst
-> - 👯 Recently, working more with Python, PyTorch and Javascript
+> - 🌱 Recently, working more with Python, PyTorch and Javascript
 > - 😄 I am willing and proactive
 > - 🎮 I like puzzles
-> - 🔭 I have an interest in Artificial Intelligence, Embedded Systems, DevOps, Robotics, Automation, Software Development, Cloud Computing, Data Analysis, Data Engineering and a little more... 😄 😅
+> - 🔭 I have an interest in Artificial Intelligence, Embedded Systems, DevOps, Cloud Computing, Data Analysis, Data Engineering, Robotics, Automation, Software Development and a little more... 😄 😅
 > - ⚽ Flamenguista
 
 
@@ -319,5 +320,5 @@
 
 
 
-### Analytics
+### My Analytics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lspaulucio&layout=compact)](https://github.com/lspaulucio/github-readme-stats) [![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lspaulucio&count_private=true&show_icons=true)](https://github.com/lspaulucio/github-readme-stats)
