@@ -8,7 +8,8 @@
 > * 🇧🇷 Brazil 
 > * 💻 Computer Engineer
 > * 🐧 Linux lover
-
+ 
+---
 
 ### Interests and Activities
 
@@ -20,17 +21,7 @@
 > - 🔭 I have an interest in Artificial Intelligence, Embedded Systems, DevOps, Cloud Computing, Data Analysis, Data Engineering, Robotics, Automation, Software Development and a little more... 😄 😅
 > - ⚽ Flamenguista
 
-
-<!--
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lspaulucio" alt="lspaulucio" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/lspaulucio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="lspaulucio" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/lspaulucio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="lspaulucio" height="30" width="40" /></a>
-</p>
--->
-
+---
 ### Languages and Technologies
 <p align="left">
   <a href="https://developer.android.com" target="_blank">
@@ -318,7 +309,7 @@
   </a>
 </p>
 
-
+---
 
 ### My Analytics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lspaulucio&layout=compact)](https://github.com/lspaulucio/github-readme-stats) [![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lspaulucio&count_private=true&show_icons=true)](https://github.com/lspaulucio/github-readme-stats)
