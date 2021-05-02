@@ -9,7 +9,6 @@
 > * 💻 Computer Engineer
 > * 🐧 Linux lover
  
----
 
 ### Interests and Activities
 
@@ -21,7 +20,6 @@
 > - 🔭 I have an interest in Artificial Intelligence, Embedded Systems, DevOps, Cloud Computing, Data Analysis, Data Engineering, Robotics, Automation, Software Development and a little more... 😄 😅
 > - ⚽ Flamenguista
 
----
 ### Languages and Technologies
 <p align="left">
   <a href="https://developer.android.com" target="_blank">
@@ -308,8 +306,6 @@
     />
   </a>
 </p>
-
----
 
 ### My Analytics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lspaulucio&layout=compact)](https://github.com/lspaulucio/github-readme-stats) [![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lspaulucio&count_private=true&show_icons=true)](https://github.com/lspaulucio/github-readme-stats)
