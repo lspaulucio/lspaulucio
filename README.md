@@ -2,7 +2,6 @@
 
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">, I'm Leonardo
 
-
 ### About me 
 
 > * 🇧🇷 Brazilian
@@ -18,7 +17,7 @@
 > - 😄 I am willing and proactive
 > - 🎮 I like puzzles
 > - 🔭 I have an interest in Artificial Intelligence, Embedded Systems, DevOps, Cloud Computing, Data Analysis, Data Engineering, Robotics, Automation, Software Development and a little more... 😄 😅
-> - ⚽ Flamenguista
+> - ⚽ Flamenguista <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png" height="20px">
 
 ### Languages and Technologies
 <p align="left">
