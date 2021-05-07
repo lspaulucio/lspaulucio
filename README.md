@@ -298,5 +298,5 @@
   </a>
 </p>
 
-### My Analytics
+### GitHub Analytics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lspaulucio&layout=compact)](https://github.com/lspaulucio/github-readme-stats) [![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lspaulucio&count_private=true&show_icons=true)](https://github.com/lspaulucio/github-readme-stats)
