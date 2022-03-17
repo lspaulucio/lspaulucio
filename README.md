@@ -1,4 +1,4 @@
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=lspaulucio&label=Profile%20views&color=0e75b6&style=flat" alt="lspaulucio" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lspaulucio&label=Profile%20views&color=0e75b6&style=flat" alt="lspaulucio" /> </p>
 
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">, I'm Leonardo
 
@@ -168,18 +168,10 @@
       height="40"
     />
   </a>
-  <a href="https://www.mathworks.com/" target="_blank">
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"
       alt="matlab"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
       width="40"
       height="40"
     />
