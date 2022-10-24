@@ -6,12 +6,12 @@
 
 > * 🇧🇷 Brazilian
 > * 💻 Computer Engineer
+> * 📚 M.Sc.Degree in Deep Learning applied to Natural Language Processing
 > * 🐧 Linux lover
  
 
 ### Interests and Activities
 
-> - 📚 I'm a M.Sc. student working with Deep Learning applied in Natural Language Processing
 > - 🖥️ I'm actually working as TI Analyst
 > - 🌱 Recently, working with Python, PyTorch and Javascript
 > - 😄 I am willing and proactive
