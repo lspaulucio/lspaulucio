@@ -16,7 +16,7 @@
 > - 🌱 Recently, working with Python, PyTorch and Javascript
 > - 😄 I am willing and proactive
 > - 🎮 I like puzzles
-> - 🔭 I have an interest in Artificial Intelligence, Embedded Systems, DevOps, Cloud Computing, Data Analysis, Data Engineering, Robotics, Automation, Software Development and a little more... 😄 😅
+> - 🔭 I have an interest in Data Engineering, DevOps, Data Analysis, Cloud Computing, Artificial Intelligence, Embedded Systems, Robotics, Automation, Software Development, and a little more... 😄 😅
 > - ⚽ Flamenguista <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png" height="20px">
 
 ### Languages and Technologies
